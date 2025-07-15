@@ -16,3 +16,35 @@ The system uses a wireless transmitter to send control signals to a receiver, wh
 5. Observe real-time output on the display and motor behavior.
 
 ## Files in This Repository
+- `final_code.ino` – Arduino code for receiver side
+- `block diagram.png` – Overall system block diagram
+- `receiver circuit.png` – Circuit diagram for receiver module
+- `receiver side.jpg` – Image of the receiver hardware setup
+- `transmitter circuit.png` – Circuit diagram for transmitter module
+- `transmitter.jpg` – Image of the transmitter hardware setup
+- `working (2).mp4` – Video demonstration of the working project
+
+## Preview
+
+### Block Diagram
+![Block Diagram](./block%20diagram.png)
+
+### Circuit Diagrams
+**Receiver Side:**  
+![Receiver Circuit](./receiver%20circuit.png)
+
+**Transmitter Side:**  
+![Transmitter Circuit](./transmitter%20circuit.png)
+
+###  Hardware Images
+**Receiver Setup:**  
+![Receiver Side](./receiver%20side.jpg)
+
+**Transmitter Setup:**  
+![Transmitter](./transmitter.jpg)
+
+### 🎥 Demo Video
+[▶️ Click to watch](./working%20(2).mp4)
+
+## Authors
+Made by Anna Retchi, Bestin Alias, Arthur Jacob, Antony Roony PX
